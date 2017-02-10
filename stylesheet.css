@@ -4,12 +4,11 @@ body {
   background-size: cover;
   color: white;
 }
-/*div {
-  border: 1px solid white;
-}*/
+div {
+  width: 100%;
+}
 .dp {
   height: 200px;
-  width: 100%;
   padding-top: 0px;
 
 }
