@@ -34,3 +34,11 @@ li {
 li:hover {
   background-color: rgba(255, 0, 0, 0.5);
 }
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.1);
+}
