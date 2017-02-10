@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background: url("hmk1.jpg");
+  background-size: cover;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+div {
+  margin: auto;
+  height: 200px;
+  width: 200px;
+}
+h1 {
+  font-family: Arial;
+  font-size: 80px;
+}
+
+p {
+  line-height: 0px;
+  font-family: cursive;
+  font-size: 30px;
+}
+li {
+  display: inline;
+}
+li:hover {
+  background-color: rgba(255, 0, 0, 0.5);
+}
